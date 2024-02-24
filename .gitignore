@@ -1,5 +1,6 @@
 artifacts/*
-.dvcignore/
+logs/
+mlruns/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
